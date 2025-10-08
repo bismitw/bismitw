@@ -1,4 +1,5 @@
 ## Hi there 👋 My name is Bismit Wagle and i am a student.
-- 🔭 I’m currently working on a various projects.
-
+- 🔭 I’m currently studying HTML, CSS , JavaScript
+- console.log("Hello World!")
+  
 
