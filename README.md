@@ -5,7 +5,7 @@
 
 - 👯 I’m always open to collaborating **on full-stack web apps using React, Django, and TypeScript; AI-powered educational and productivity tools; open-source projects; and data visualization dashboards. Feel free to reach out if you have a project or idea that aligns with these areas. I’d love to connect and build something meaningful together!**
 
-- 👨‍💻 All of my projects are available at [bismitwagle.com.np]((https://bismitwagle.com.np/))
+- 👨‍💻 All of my projects are available at [bismitwagle.com.np](https://bismitwagle.com.np/)
 
 - 💬 Ask me about **HTML, CSS, JS, Php and Python**
 
