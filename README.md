@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bismit Wagle</h1>
 <h3 align="center">"Blending Code and Creativity to Build Smart Digital Experiences"</h3>
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js and Node.js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m always open to collaborating **on full-stack web apps using React, Django, and TypeScript; AI-powered educational and productivity tools; open-source projects; and data visualization dashboards. Feel free to reach out if you have a project or idea that aligns with these areas. I’d love to connect and build something meaningful together!**
-
-- 👨‍💻 All of my projects are available at [bismitwagle.com.np](bismitwagle.com.np)
 
 - 💬 Ask me about **HTML, CSS, JS, Php and Python**
 
 - 📫 How to reach me **bismitwagle@gmail.com, Alternative Email: wbismit@gmail.com**
-
-- ⚡ Fun fact **I like to think every bug I fix earns me one invisible programming superpower. 🦸‍♂️🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
