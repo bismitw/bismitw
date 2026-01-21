@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Bismit Wagle</h1>
-<h3 align="center">"Blending Code and Creativity to Build Smart Digital Experiences"</h3>
+### Welcome to Bismit Wagle's Tech Home👋
 
-- 🌱 I’m currently learning **MERN**
+<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
+  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<a href="https://www.linkedin.com/in/%E7%A1%95-%E5%88%98-073728144/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
+<a href="bismitwagle@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/lovelybuggies/">
+  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.kaggle.com/ninolau">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 
-- 👯 I’m always open to collaborating **on full-stack web apps using React, Django, and TypeScript; AI-powered educational and productivity tools; open-source projects; and data visualization dashboards. Feel free to reach out if you have a project or idea that aligns with these areas. I’d love to connect and build something meaningful together!**
+<br />
+<br />
 
-- 💬 Ask me about **HTML, CSS, JS, Php and Python**
+Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-- 📫 How to reach me **bismitwagle@gmail.com, Alternative Email: wbismit@gmail.com**
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bismit1031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bismit1031" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bismit wagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bismit wagle" height="30" width="40" /></a>
-<a href="https://instagram.com/bismittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bismittt" height="30" width="40" /></a>
-</p>
+**Current Status Quo**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
+- 🌱 I’m currently learning TypeScripts and Python.
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 💼 I’m pursuing a Ph.D. degree or R.A. position.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via ninomyemail@gmail.com to reach me.
+- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
 
+⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
