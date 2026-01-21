@@ -18,9 +18,9 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+**Current Status Quote**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
+- 👨🏻‍💻 I’m currently working on [React-Context-API](https://github.com/bismitw/Context-Api-in-ReactJS) 
 - 🌱 I’m currently learning MERN and Python.
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I have completed my Bachelor Degree with Bsc(Hons) Computer Systems Engineering.
@@ -28,4 +28,4 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 - 📫 Please email via bismitwagle@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae] to get more info.
 
-⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
+⭐️ From [Bismit Wagle](https://github.com/bismitw)
