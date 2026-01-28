@@ -26,6 +26,7 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 - 💼 I have completed my Bachelor Degree with Bsc(Hons) Computer Systems Engineering.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via bismitwagle@gmail.com to reach me.
+- Visit my Personal website at [Bismit Wagle](https://bismitwagle.com.np/)
 - 👀 See my [Curriculum Vitae] to get more info.
 
 ⭐️ From [Bismit Wagle](https://github.com/bismitw)
