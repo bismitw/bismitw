@@ -29,4 +29,6 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 - Visit my Personal website at [Bismit Wagle](https://bismitwagle.com.np/)
 - 👀 See my [Curriculum Vitae] to get more info.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,nodejs,mongodb,figma,postman,)](https://skillicons.dev)
+
 ⭐️ From [Bismit Wagle](https://github.com/bismitw)
