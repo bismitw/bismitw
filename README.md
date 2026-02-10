@@ -21,7 +21,7 @@ Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 **Current Status Quote**
 
 - 👨🏻‍💻 I’m currently working on [ReactJS](https://github.com/bismitw/todoContextLocal) 
-- 🌱 I’m currently learning MERN and Python.
+- 🌱 I’m currently learning Backend.
 - 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
 - 💼 I have completed my Bachelor Degree with Bsc(Hons) Computer Systems Engineering.
 - 💬 Ask me about anything, I would like to answer.
