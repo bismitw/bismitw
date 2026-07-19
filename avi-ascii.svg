@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 448" width="600" height="448">
+<style>
+  .ascii { font-family: "Courier New", monospace; font-size: 14px; fill: #8b949e; }
+</style>
+<rect width="600" height="448" fill="transparent" />
+<clipPath id="clip_0">
+  <rect x="0" y="0" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.0s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="16" class="ascii" clip-path="url(#clip_0)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_1">
+  <rect x="0" y="16" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.04s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="32" class="ascii" clip-path="url(#clip_1)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_2">
+  <rect x="0" y="32" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.08s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="48" class="ascii" clip-path="url(#clip_2)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_3">
+  <rect x="0" y="48" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.12s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="64" class="ascii" clip-path="url(#clip_3)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_4">
+  <rect x="0" y="64" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.16s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="80" class="ascii" clip-path="url(#clip_4)" xml:space="preserve">                                      . .                                  </text>
+<clipPath id="clip_5">
+  <rect x="0" y="80" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.2s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="96" class="ascii" clip-path="url(#clip_5)" xml:space="preserve">                                     `.-                                   </text>
+<clipPath id="clip_6">
+  <rect x="0" y="96" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.24s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="112" class="ascii" clip-path="url(#clip_6)" xml:space="preserve">                                    `+-                                    </text>
+<clipPath id="clip_7">
+  <rect x="0" y="112" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.28s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="128" class="ascii" clip-path="url(#clip_7)" xml:space="preserve">                                    ==                                     </text>
+<clipPath id="clip_8">
+  <rect x="0" y="128" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.32s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="144" class="ascii" clip-path="url(#clip_8)" xml:space="preserve">                                   *`                                      </text>
+<clipPath id="clip_9">
+  <rect x="0" y="144" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.36s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="160" class="ascii" clip-path="url(#clip_9)" xml:space="preserve">                                 .*                                        </text>
+<clipPath id="clip_10">
+  <rect x="0" y="160" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.4s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="176" class="ascii" clip-path="url(#clip_10)" xml:space="preserve">                                :=`:-:                                     </text>
+<clipPath id="clip_11">
+  <rect x="0" y="176" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.44s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="192" class="ascii" clip-path="url(#clip_11)" xml:space="preserve">                               --ssss+                                     </text>
+<clipPath id="clip_12">
+  <rect x="0" y="192" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.48s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="208" class="ascii" clip-path="url(#clip_12)" xml:space="preserve">                              -  *:*.:                                     </text>
+<clipPath id="clip_13">
+  <rect x="0" y="208" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.52s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="224" class="ascii" clip-path="url(#clip_13)" xml:space="preserve">                            -:+: =*+:`                                     </text>
+<clipPath id="clip_14">
+  <rect x="0" y="224" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.56s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="240" class="ascii" clip-path="url(#clip_14)" xml:space="preserve">                            `-    +#**+*.                                  </text>
+<clipPath id="clip_15">
+  <rect x="0" y="240" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.6s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="256" class="ascii" clip-path="url(#clip_15)" xml:space="preserve">                           `=:=  c#*sc*+`%:                                </text>
+<clipPath id="clip_16">
+  <rect x="0" y="256" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.64s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="272" class="ascii" clip-path="url(#clip_16)" xml:space="preserve">                          .:  -=c+#ccc*cs.c:                               </text>
+<clipPath id="clip_17">
+  <rect x="0" y="272" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.68s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="288" class="ascii" clip-path="url(#clip_17)" xml:space="preserve">                         .`    ````:+csccc+=                               </text>
+<clipPath id="clip_18">
+  <rect x="0" y="288" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.72s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="304" class="ascii" clip-path="url(#clip_18)" xml:space="preserve">                       -=....`````:ss#s#c#c+`                              </text>
+<clipPath id="clip_19">
+  <rect x="0" y="304" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.76s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="320" class="ascii" clip-path="url(#clip_19)" xml:space="preserve">                       s         .c%s###*ss*.                              </text>
+<clipPath id="clip_20">
+  <rect x="0" y="320" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.8s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="336" class="ascii" clip-path="url(#clip_20)" xml:space="preserve">                      c=*+======+=  csc##%sc                               </text>
+<clipPath id="clip_21">
+  <rect x="0" y="336" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.84s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="352" class="ascii" clip-path="url(#clip_21)" xml:space="preserve">                  :-=c=++**cc**cs*+:..#:#+                                 </text>
+<clipPath id="clip_22">
+  <rect x="0" y="352" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.88s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="368" class="ascii" clip-path="url(#clip_22)" xml:space="preserve">        .  =-:++*cs:c              ````:---::`````````:`:``:``             </text>
+<clipPath id="clip_23">
+  <rect x="0" y="368" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.92s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="384" class="ascii" clip-path="url(#clip_23)" xml:space="preserve">           .+-`   -#              -:-:`::::``****+++++*****+*++..          </text>
+<clipPath id="clip_24">
+  <rect x="0" y="384" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="0.96s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="400" class="ascii" clip-path="url(#clip_24)" xml:space="preserve">                                     ..    .``+ccccccccs###ss#s+           </text>
+<clipPath id="clip_25">
+  <rect x="0" y="400" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="1.0s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="416" class="ascii" clip-path="url(#clip_25)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_26">
+  <rect x="0" y="416" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="1.04s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="432" class="ascii" clip-path="url(#clip_26)" xml:space="preserve">                                                                           </text>
+<clipPath id="clip_27">
+  <rect x="0" y="432" width="0" height="16">
+    <animate attributeName="width" from="0" to="600" begin="1.08s" dur="0.6s" fill="freeze" />
+  </rect>
+</clipPath>
+<text x="0" y="448" class="ascii" clip-path="url(#clip_27)" xml:space="preserve">                                                                           </text>
+</svg>
