@@ -14,7 +14,7 @@ def generate_info_card(output_path="info-card.svg"):
         {"type": "title", "text": "bismit@github"},
         {"type": "separator", "text": "------------"},
         {"type": "row", "label": "Role", "text": "Software Engineer"},
-        {"type": "row", "label": "Focus", "text": "Backend Engineering, Artificial Intelligence and Machine Learning"},
+        {"type": "row", "label": "Focus", "text": "Backend Engineering & Machine Learning"},
         {"type": "row", "label": "Languages", "text": "Python, JavaScript, TypeScript"},
         {"type": "row", "label": "Goals", "text": "AI/ML Engineer"},
     ]
